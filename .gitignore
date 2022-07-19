@@ -2,5 +2,6 @@
 ~*
 env
 tmp
-sdist
+dist
 build
+src/meowpkg.egg-info
