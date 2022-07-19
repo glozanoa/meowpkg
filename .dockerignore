@@ -1,0 +1,7 @@
+*.
+~*
+env
+tmp
+dist
+build
+src/meowpkg.egg-info
