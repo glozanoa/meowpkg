@@ -50,3 +50,5 @@ jobs:
       with:
         user: __token__
         password: ${{ secrets.PYPI_MEOWPKG_API_TOKEN }}
+        repository_url: https://pypi.org/project/meowpkg/
+        verbose: true
